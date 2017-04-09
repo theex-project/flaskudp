@@ -3,6 +3,8 @@ from socket import *
 import ast, json, pprint, sys
 from thread import start_new_thread
 
+#Created by Hedy Pamungkas
+
 coreData = []
 serverPort = 8989
 MAX = 65535
